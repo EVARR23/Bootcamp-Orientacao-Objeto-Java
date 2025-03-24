@@ -1,4 +1,4 @@
-package org.example.ExemploEqualsEIgualIgual;
+package org.example.exemploEqualsEIgualIgual;
 
 public class TesteEquslsEIgualIgual {
 
